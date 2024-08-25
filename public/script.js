@@ -12,5 +12,5 @@ function updateData() {
 }
 
 // Update data every 5 seconds
-setInterval(updateData, 5000);
+setInterval(updateData, 500);
 
